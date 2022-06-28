@@ -1,0 +1,15 @@
+
+* Variables y Strings
+   Las variables son como bolsas, podes poner papelitos con palabras o números,
+   también podes decidir quien va a poner y sacar papelitos de la bolsa.
+
+* Funciones (argumentos, return)
+   Las funciones serian como una impresora, tomando en cuenta el ejemplo anterior,
+   en donde le pasamos una hoja y nos devuelve la misma hoja sobre escrita con lo que 
+   le hayamos pedido.  
+
+* If valores Booleanos
+   las declaraciones if es como esta impresora que mencionamos pero poniéndole condiciones    para  usarla,
+   como que la hoja que le pases sea un cuadrado, si es verdad que tienes una hoja cuadrada,
+   podes usar la impresora, de lo contrario si es falso no podes usarla.
+ 
