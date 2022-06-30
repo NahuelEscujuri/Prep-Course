@@ -1,0 +1,11 @@
+
+* For
+   For nos permite crear bucles. Toma como ejemplo una máquina, que hace pasteles de forma constante, 
+   una vez que tocas un botón, como no vas a comer infinitos pasteles, le pones como condición 
+   a la máquina que después de haber creado, por ejemplo 5 pasteles, pare.
+* &&, ||, ! 
+   es un concepto bastante sencillo, es como salir de tu casa. por ejemplo si son las 12pm y(&&) esta lindo 
+   el día salgo, o(||) si tengo algo urgente que hacer salgo. pero si quisiera decir lo contrario de alguna
+   de estas condiciones para salir es tan simple como agregarle un NO(!), si NO son las 12pm, si NO tengo 
+   nada urgente que hacer
+
